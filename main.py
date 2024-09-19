@@ -1,13 +1,30 @@
-import os
-import sys
-import urllib3
+import os.path
+from flask import Flask, request, abort
 
-bearer = (
-    "***"
-    "eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4"
-    "gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMe"
-    "KKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-)
+app = Flask(__name__)
 
-# this is fine
-os.system(sys.argv[1])
+@app.route("/user_picture1")
+def user_picture1():
+    filename = request.args.get('p')
+    # BAD: This could read any file on the file system
+    data = open(filename, 'rb').read()
+    return data
+
+@app.route("/user_picture2")
+def user_picture2():
+    base_path = '/server/static/images'
+    filename = request.args.get('p')
+    # BAD: This could still read any file on the file system
+    data = open(os.path.join(base_path, filename), 'rb').read()
+    return data
+
+@app.route("/user_picture3")
+def user_picture3():
+    base_path = '/server/static/images'
+    filename = request.args.get('p')
+    #GOOD -- Verify with normalised version of path
+    fullpath = os.path.normpath(os.path.join(base_path, filename))
+    if not fullpath.startswith(base_path):
+        raise Exception("not allowed")
+    data = open(fullpath, 'rb').read()
+    return data
