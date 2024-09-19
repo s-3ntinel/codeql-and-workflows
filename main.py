@@ -5,9 +5,13 @@ app = Flask(__name__)
 
 @app.route("/user_picture1")
 def user_picture1():
+    base_path = '/server/static/images'
     filename = request.args.get('p')
-    # BAD: This could read any file on the file system
-    data = open(filename, 'rb').read()
+    # GOOD: Verify with normalized version of path
+    fullpath = os.path.normpath(os.path.join(base_path, filename))
+    if not fullpath.startswith(base_path):
+        raise Exception("not allowed")
+    data = open(fullpath, 'rb').read()
     return data
 
 @app.route("/user_picture2")
