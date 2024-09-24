@@ -1,9 +1,9 @@
 import os.path
-from flask import Flask, request, abort, Response
+from flask import Flask, request
 from app import app
 
 bearer = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-google_api_key = "AIzaSyAw-SpLHVTIP3IFEIkckCuEmIhnUrY9OrQ"
+# google api token removed after warning from secret scanning
 
 @app.route("/user_picture1")
 def user_picture1():
