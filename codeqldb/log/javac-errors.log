@@ -1,0 +1,1214 @@
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown constructor invocation: super();
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: application.sources(Application.class)
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:00:58] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: SpringApplication.run(Application.class, args)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:IgnoreCommand")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:ListenCommand")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:RemoveAccountCommand")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlQuery)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/BlabController.java:33:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/BlabController.java:33:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:BlabController")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showFeed")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + httpRequest.getHeader("User-Agent") + " U=" + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the BlabsForMe Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the BlabsForMe Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("blabsByOthers", feedBlabs)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("currentUser", username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the BlabsByMe Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the BlabsByMe Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("blabsByMe", myBlabs)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute produces
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processBlab")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + httpRequest.getHeader("User-Agent") + " U=" + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the addBlab Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the addComment Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", "Failed to add comment")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showBlab")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + httpRequest.getHeader("User-Agent") + " U=" + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the blabDetails Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the blabDetails Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("content", blabDetailsResults.getString(1))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("blab_name", blabDetailsResults.getString(2))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("blabid", blabid)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the blabComments Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the blabComments Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("comments", comments)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processBlab")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + httpRequest.getHeader("User-Agent") + " U=" + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the addComment Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the addComment Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", "Failed to add comment")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showBlabbers")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + httpRequest.getHeader("User-Agent") + " U=" + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(blabbersSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("blabbers", blabbers)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processBlabbers")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + httpRequest.getHeader("User-Agent") + " U=" + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Empty command provided...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("blabberUsername = " + blabberUsername)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("command = " + command)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind NEExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("javax.servlet.forward.request_uri", "/login")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("username", "")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/ResetController.java:32:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/ResetController.java:32:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:ResetController")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showReset")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processReset")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(connect)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the Stetement for adding users")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Adding user " + users[i].getUserName())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the Stetement for adding listeners")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Adding " + listener + " as a listener of " + blabber)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Reading blabs from file")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the Statement for adding blabs")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Adding a blab for " + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Reading comments from file")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the Statement for adding comments")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Adding a comment from " + username + " on blab ID " + String.valueOf(i))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Reading database schema from file")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing: " + sql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/utils/User.java:14:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/utils/User.java:14:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: DatatypeConverter.printHexBinary(digest)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/ToolsController.java:21:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/ToolsController.java:21:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:ToolsController")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("ping", host != null ? ping(host) : "")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown type symbol for type 'recovery'
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("fortunes", fortune(fortuneFile))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Pinging: " + host)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(proc.exitValue())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/UserController.java:60:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] In file /Users/pripum/Documents/codeql-snyk-github-testing/codeql-and-workflows/src/verademo/app/src/main/java/com/veracode/verademo/controller/UserController.java:60:8 no end location for JCIdent : value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:UserController")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind NEExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is already logged in - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is remembered - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not remembered")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showLogin with username " + username + " and target " + target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("username", username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("target", target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processLogin")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Creating the Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Creating the Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Execute the Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User Found.")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User Not Found")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", "Login failed. Please try again.")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("target", target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", exceptSql.getMessage() + "<br/>" + displayErrorForWeb(exceptSql))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("target", target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(cnfe)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", cnfe.getMessage())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("target", target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", exceptSql.getMessage())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("target", target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", exceptSql.getMessage())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("target", target)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Redirecting to view: " + nextView)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering password-hint with username: " + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(formatString)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processLogout")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Redirecting to Login...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showRegister")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processRegister")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Creating the Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", "Username '" + username + "' already exists!")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showRegisterFinish")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processRegisterFinish")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Password and Confirm Password do not match")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("error", "The Password and Confirm Password values do not match. Please try again.")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Creating the Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(query.toString())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: env.getProperty("mail.to")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: env.getProperty("mail.from")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: env.getProperty("mail.smtp.host")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: env.getProperty("mail.smtp.port")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: Session.getDefaultInstance(properties)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new MimeMessage(session)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.setFrom(new InternetAddress(from))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new InternetAddress(from)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.addRecipient(Message.RecipientType.TO, new InternetAddress(to))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new InternetAddress(to)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.setSubject(env.getProperty("mail.subject.new_user") + " " + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: env.getProperty("mail.subject.new_user")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.setText("A new VeraDemo user registered: " + username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Sending email to admin")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: Transport.send(message)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: mex.printStackTrace()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: httpRequest.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering showProfile")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlMyHecklers)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sqlMyEvents)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info(sql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("hecklers", hecklers)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("events", events)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("username", myInfoResults.getString("username"))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("image", getProfileImageNameFromUsername(myInfoResults.getString("username")))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("realName", myInfoResults.getString("real_name"))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: model.addAttribute("blabName", myInfoResults.getString("blab_name"))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute produces
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering processProfile")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setStatus(HttpServletResponse.SC_FORBIDDEN)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + request.getHeader("User-Agent") + " U=" + sessionUsername)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the update Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Executing the update Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(exceptSql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setStatus(HttpServletResponse.SC_CONFLICT)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AndLogicalExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind NEExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind LogNotExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: file.isEmpty()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: context.getRealPath("/resources/images")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: file.getOriginalFilename().substring(file.getOriginalFilename().lastIndexOf("."))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: file.getOriginalFilename()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: file.getOriginalFilename().lastIndexOf(".")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: file.getOriginalFilename()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Saving new profile image: " + path)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: file.transferTo(new File(path))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setStatus(HttpServletResponse.SC_OK)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute method
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute value
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown symbol for annotation attribute required
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: context.getRealPath("/resources/images")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Entering downloadImage")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is not Logged In - redirecting...")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setStatus(HttpServletResponse.SC_FORBIDDEN)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User is Logged In - continuing... UA=" + request.getHeader("User-Agent") + " U=" + sessionUsername)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getHeader("User-Agent")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Fetching profile image: " + path)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: context.getMimeType(path)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("MIME type: " + mimeType)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setContentType(mimeType)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setContentLength((int)downloadFile.length())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setHeader("Content-Disposition", "attachment; filename=" + imageName)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.getOutputStream()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the duplicate username check Prepared Statement")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(e)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(e)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Username: " + username + " already exists. Try again.")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Getting Database connection")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Preparing the Prepared Statement: " + sql)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind AddExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: context.getRealPath("/resources/images")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Renaming profile image from " + oldImage + " to " + newUsername + extension)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(ex)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(e)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error("Transaction is being rolled back")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.error(e)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: context.getRealPath("/resources/images")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: Session.getDefaultInstance(properties)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new MimeMessage(session)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.setFrom(new InternetAddress(from))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new InternetAddress(from)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.addRecipient(Message.RecipientType.TO, new InternetAddress(to))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new InternetAddress(to)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.setSubject("Error detected: " + t.getMessage())
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: message.setText(t.getMessage() + "<br>" + properties.getProperty("test") + displayErrorForWeb(t))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("Sending email to admin")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: Transport.send(message)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: mex.printStackTrace()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: DatatypeConverter.printHexBinary(digest)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: LogManager.getLogger("VeraDemo:UserFactory")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: cookie.getValue().getBytes(StandardCharsets.UTF_8)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: cookie.getValue()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind EQExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("No user cookie")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: cookie.getValue().isEmpty()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: cookie.getValue()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("User cookie is empty")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: req.getCookies()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind EQExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("No request")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind NullLiteral
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind EQExpr
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: logger.info("No cookies")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind NullLiteral
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: cookies[i].getName().equals(username)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ArrayAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: cookies[i].getName()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ArrayAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind NullLiteral
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession().getAttribute("username")
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession().setAttribute("username", value)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: request.getSession()
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.getHeaders(HttpHeaders.SET_COOKIE)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.setHeader(HttpHeaders.SET_COOKIE, String.format("%s; SameSite=None; Secure;", header))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.addHeader(HttpHeaders.SET_COOKIE, String.format("%s; SameSite=None; Secure;", header))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown method invocation of kind MEMBER_SELECT: response.addCookie(new Cookie(name, value))
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind ClassInstanceCreation
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind TypeAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unexpected symbol for constructor: new Cookie(name, value)
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind MethodAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] Unknown or erroneous type for expression of kind VarAccess
+[2025-03-10 16:01:00] [javac-extractor-49565] [ERROR] 100 errors were reported by javac.
