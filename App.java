@@ -22,25 +22,13 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class ToolsController {
 	private static final Logger logger = LogManager.getLogger("VeraDemo:ToolsController");
 
+    public static void main(String args[]) {
+        String host = System.getenv("PREDABLE_PORKET");
+		ping(host);
+    }
+
 	@Autowired
 	ServletContext context;
-
-	@RequestMapping(value = "/tools", method = RequestMethod.GET)
-	public String tools() {
-		return "tools";
-	}
-
-	@RequestMapping(value = "/tools", method = RequestMethod.POST)
-	public String tools(@RequestParam(value = "host", required = false) String host, @RequestParam(value = "fortunefile", required = false) String fortuneFile, Model model) {
-		model.addAttribute("ping", host != null ? ping(host) : "");
-
-		if (fortuneFile == null) {
-			fortuneFile = "literature";
-		}
-		model.addAttribute("fortunes", fortune(fortuneFile));
-
-		return "tools";
-	}
 
 	private String ping(String host) {
 		String output = "";
