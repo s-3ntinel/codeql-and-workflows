@@ -1,91 +1,36 @@
-package com.veracode.verademo.controller;
+public class App {
+        public static String killDriver(DriverType driverType) {                                                                                      
+                String driverPath = null;                                                                                                           
+                switch (driverType) {                                                                                                                                                                                                                                                                    
+                case FIREFOX:                                                                                                                       
+                        driverPath = DataManager.getFirefoxDriverPath();                                                                            
+                        break;                                                                                                                      
+                case CHROME:                                                                                                                        
+                        driverPath = DataManager.getChromeDriverPath();                                                                             
+                        break;                                                                                                                      
+                case ELECTRON:                                                                                                                      
+                        driverPath = DataManager.getElectronDriverPath();                                                                           
+                        break;                                                                                                                      
+                case IE:                                                                                                                            
+                        driverPath = DataManager.getIeDriverPath();
+                        break;
+                case EDGE:
+                        driverPath = DataManager.getEdgeDriverPath();
+                        break;
+                case HEADLESS:
+                        driverPath = DataManager.getChromeDriverPath();
+                        break;
+                default:
+                        log.Error("No driver found for the given driver type:" + driverType);
+                        break;
+                }
+                String[] driverPathSplit = driverPath.split("/");
+                String driverExe = driverPathSplit[driverPathSplit.length - 1];
+                String command = "taskkill /F /IM " + driverExe;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.concurrent.TimeUnit;
-
-import javax.servlet.ServletContext;
-
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-
-@Controller
-@Scope("request")
-public class ToolsController {
-	private static final Logger logger = LogManager.getLogger("VeraDemo:ToolsController");
-
-    public static void main(String args[]) {
-        String host = System.getenv("PREDABLE_PORKET");
-		ping(host);
-    }
-
-	@Autowired
-	ServletContext context;
-
-	private String ping(String host) {
-		String output = "";
-		Process proc;
-
-		logger.info("Pinging: " + host);
-
-		try {
-			/* START EXAMPLE VULNERABILITY */
-			proc = Runtime.getRuntime().exec(new String[] { "bash", "-c", "ping -c1 " + host });
-			/* END EXAMPLE VULNERABILITY */
-
-			proc.waitFor(5, TimeUnit.SECONDS);
-			InputStreamReader isr = new InputStreamReader(proc.getInputStream());
-			BufferedReader br = new BufferedReader(isr);
-
-			String line;
-
-			while ((line = br.readLine()) != null) {
-				output += line + "\n";
-			}
-
-			logger.info(proc.exitValue());
-		} catch (IOException ex) {
-			logger.error(ex);
-		} catch (InterruptedException ex) {
-			logger.error(ex);
-		}
-
-		return output;
-	}
-
-	private String fortune(String fortuneFile) {
-		String cmd = "/bin/fortune " + fortuneFile;
-
-		String output = "";
-		Process proc;
-		try {
-			/* START EXAMPLE VULNERABILITY */
-			proc = Runtime.getRuntime().exec(new String[] { "bash", "-c", cmd });
-			/* END EXAMPLE VULNERABILITY */
-
-			proc.waitFor(5, TimeUnit.SECONDS);
-			InputStreamReader isr = new InputStreamReader(proc.getInputStream());
-			BufferedReader br = new BufferedReader(isr);
-
-			String line;
-
-			while ((line = br.readLine()) != null) {
-				output += line + "\n";
-			}
-		} catch (IOException ex) {
-			logger.error(ex);
-		} catch (InterruptedException ex) {
-			logger.error(ex);
-		}
-
-		return output;
-	}
+try {
+                        Runtime.getRuntime().exec(command);
+                } catch (IOException e) {
+                }
+        }
 }
