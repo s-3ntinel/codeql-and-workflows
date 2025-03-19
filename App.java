@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class M {
+public class App {
 public void met(String cmd) {
 
 Runtime rt = Runtime.getRuntime();                                                                                                                                                                    
