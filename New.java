@@ -11,24 +11,56 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.apache.commons.io.IOUtils;
 
-public class New extends HttpServlet {
+public class OctetStreamReader extends HttpServlet {
 
-    private static final long serialVersionUID = 67L;
+    private static final long serialVersionUID = 6748857432950840322L;
     private static final String DESTINATION_DIR_PATH = "files";
     private static String realPath;
 
-    @Override
     public void init(ServletConfig config) throws ServletException {
         super.init(config);
         realPath = getServletContext().getRealPath(DESTINATION_DIR_PATH) + "/";
     }
+	public String get(HttpServletRequest request) {
+        return request.getHeader("X-File-Name");
+	}
 
-    @Override
-    public String doPost(HttpServletRequest request, HttpServletResponse response)
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException {
 
+        PrintWriter writer = null;
+        InputStream is = null;
+        FileOutputStream fos = null;
 
-        String filename = request.getHeader("X-File-Name");
-        return filename;
+        try {
+            writer = response.getWriter();
+        } catch (IOException ex) {
+            log(OctetStreamReader.class.getName() + "has thrown an exception: " + ex.getMessage());
+        }
+
+        try {
+            is = request.getInputStream();
+            fos = new FileOutputStream(new File(realPath + get(request)));
+            IOUtils.copy(is, fos);
+            response.setStatus(response.SC_OK);
+            writer.print("{success: true}");
+        } catch (FileNotFoundException ex) {
+            response.setStatus(response.SC_INTERNAL_SERVER_ERROR);
+            writer.print("{success: false}");
+            log(OctetStreamReader.class.getName() + "has thrown an exception: " + ex.getMessage());
+        } catch (IOException ex) {
+            response.setStatus(response.SC_INTERNAL_SERVER_ERROR);
+            writer.print("{success: false}");
+            log(OctetStreamReader.class.getName() + "has thrown an exception: " + ex.getMessage());
+        } finally {
+            try {
+                fos.close();
+                is.close();
+            } catch (IOException ignored) {
+            }
+        }
+
+        writer.flush();
+        writer.close();
     }
 }
