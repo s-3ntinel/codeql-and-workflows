@@ -1,13 +1,20 @@
 import java.io.*;
 
 public class App {
-public void met(String cmd) {
+public static String get() {
+	return "string";
+}
+
+public static void met(String cmd) {
 
 Runtime rt = Runtime.getRuntime();                                                                                                                                                                    
 try {                                                                                                                                                                                                            
-ASD asdf = new ASD();
-             Process exec = rt.exec("cmd.exe /C atlon2utm.exe " + cmd);                                                                                                                                  
+             Process exec = rt.exec("cmd.exe /C atlon2utm.exe " + get());                                                                                                                                  
  } catch (IOException e) {                                                                                                                                                                                         
  }                                                                                                                                                                                                                 
          }             
+
+public static void main(String args[]) {
+  met("asdf");
+}
 }
