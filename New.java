@@ -24,18 +24,9 @@ public class New extends HttpServlet {
     }
 
     @Override
-    protected String doPost(HttpServletRequest request, HttpServletResponse response)
+    public String doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException {
 
-        PrintWriter writer = null;
-        InputStream is = null;
-        FileOutputStream fos = null;
-
-        try {
-            writer = response.getWriter();
-        } catch (IOException ex) {
-            log(OctetStreamReader.class.getName() + "has thrown an exception: " + ex.getMessage());
-        }
 
         String filename = request.getHeader("X-File-Name");
         return filename;
