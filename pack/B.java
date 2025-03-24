@@ -1,3 +1,5 @@
+package pack;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -11,19 +13,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.apache.commons.io.IOUtils;
 
-public class OctetStreamReader extends HttpServlet {
+public class B extends HttpServlet {
 
     private static final long serialVersionUID = 6748857432950840322L;
     private static final String DESTINATION_DIR_PATH = "files";
     private static String realPath;
-
-    public void init(ServletConfig config) throws ServletException {
-        super.init(config);
-        realPath = getServletContext().getRealPath(DESTINATION_DIR_PATH) + "/";
-    }
-	public String get(HttpServletRequest request) {
-        return request.getHeader("X-File-Name");
-	}
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException {
@@ -40,7 +34,7 @@ public class OctetStreamReader extends HttpServlet {
 
         try {
             is = request.getInputStream();
-            fos = new FileOutputStream(new File(realPath + get(request)));
+            fos = new FileOutputStream(new File(realPath + A.get(request)));
             IOUtils.copy(is, fos);
             response.setStatus(response.SC_OK);
             writer.print("{success: true}");
@@ -63,4 +57,5 @@ public class OctetStreamReader extends HttpServlet {
         writer.flush();
         writer.close();
     }
+
 }
