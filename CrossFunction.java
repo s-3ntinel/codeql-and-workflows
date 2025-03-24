@@ -11,9 +11,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.apache.commons.io.IOUtils;
 
-public class A extends HttpServlet {
+public class OctetStreamReader extends HttpServlet {
 
-    private static final long serialVersionUID = 6L;
+    private static final long serialVersionUID = 6748857432950840322L;
     private static final String DESTINATION_DIR_PATH = "files";
     private static String realPath;
 
@@ -21,6 +21,9 @@ public class A extends HttpServlet {
         super.init(config);
         realPath = getServletContext().getRealPath(DESTINATION_DIR_PATH) + "/";
     }
+	public String get(HttpServletRequest request) {
+        return request.getHeader("X-File-Name");
+	}
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException {
@@ -35,10 +38,9 @@ public class A extends HttpServlet {
             log(OctetStreamReader.class.getName() + "has thrown an exception: " + ex.getMessage());
         }
 
-        String filename = request.getHeader("X-File-Name");
         try {
             is = request.getInputStream();
-            fos = new FileOutputStream(new File(realPath + filename));
+            fos = new FileOutputStream(new File(realPath + get(request)));
             IOUtils.copy(is, fos);
             response.setStatus(response.SC_OK);
             writer.print("{success: true}");
