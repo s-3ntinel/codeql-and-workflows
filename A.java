@@ -1,7 +1,7 @@
 import java.io.FileOutputStream;
 import java.io.File;
 import java.util.Scanner;
-import javax.servlet.http.HttpServletRequest;
+//import javax.servlet.http.HttpServletRequest;
 
 public class A {
 	public void HandleRequest(HttpServletRequest request) {
