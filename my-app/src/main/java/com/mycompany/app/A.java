@@ -1,3 +1,5 @@
+package com.mycompany.app;
+
 import java.io.FileOutputStream;
 import java.io.File;
 import java.util.Scanner;
