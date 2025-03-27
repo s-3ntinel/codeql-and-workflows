@@ -1,14 +1,16 @@
 import java.io.FileOutputStream;
 import java.io.File;
-import javax.servlet.http.HttpServletRequest;
+import java.util.Scanner;
 
 public class A {
-	public void HandleRequest(String request) {
+	public void HandleRequest() {
         //String filename = System.getenv("input");
 		//String filename = request.getHeader("X-File-Name");
 
+		Scanner scanner = new Scanner(System.in);
+		String in = scanner.nextLine();
 		try {
-	        FileOutputStream fos = new FileOutputStream(new File(request));
+	        FileOutputStream fos = new FileOutputStream(new File(in));
 		} catch(Exception e) {}
     }
 }
