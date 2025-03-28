@@ -10,7 +10,8 @@ jobs:
         include:
           - language: java
 
-    runs-on: ubuntu-latest
+    #runs-on: ubuntu-latest
+    runs-on: cs-codeql-standard-xlarge
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
