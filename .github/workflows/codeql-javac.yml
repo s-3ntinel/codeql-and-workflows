@@ -20,9 +20,10 @@ jobs:
         with:
           languages: ${{ matrix.language }}
 
-#      - name: Send java files to javac
-#        run: find . -name "*.java" | sed 's| |\\ |g' | xargs javac -encoding US-ASCII || true
-#        continue-on-error: true
+      - name: Send java files to javac
+        #run: find . -name "*.java" | sed 's| |\\ |g' | xargs javac -encoding US-ASCII || true
+        run: find . -name "*.java" | sed 's| |\\ |g' || true
+        continue-on-error: true
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
