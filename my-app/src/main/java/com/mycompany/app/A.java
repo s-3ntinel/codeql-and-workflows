@@ -10,7 +10,7 @@ public class A {
 		String filename = request.getHeader("customer’s");
 
 		try {
-	        FileOutputStream fos = new FileOutputStream(new File(filename));
+	        FileOutputStream fos = new FileOutputStream(new File("customer’s" + filename));
 		} catch(Exception e) {}
     }
 }
