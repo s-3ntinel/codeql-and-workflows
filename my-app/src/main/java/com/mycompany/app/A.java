@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 public class A {
 	public void HandleRequest(HttpServletRequest request) {
 		String filename = request.getHeader("X-File-Name");
+		System.out.println("customer’s");
 
 		try {
 	        FileOutputStream fos = new FileOutputStream(new File(filename));
