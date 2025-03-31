@@ -1,19 +1,24 @@
-name: codeql-javac
+name: codeql-mcs
 
 on: push
 
 jobs:
   codeql:
-    name: codeql javac
+    name: codeql mcs
     strategy:
       matrix:
         include:
-          - language: java
+          - language: csharp
 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Install mcs
+        run: |
+          sudo apt udpate
+          sudo apt install mono-devel mono-utils
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
@@ -21,7 +26,7 @@ jobs:
           languages: ${{ matrix.language }}
 
       - name: Send java files to javac
-        run: find . -name "*.java" | sed 's| |\\ |g' | xargs javac -encoding US-ASCII || true
+        run: find . -name "*.java" | sed 's| |\\ |g' | xargs mcs || true
         continue-on-error: true
 
       - name: Perform CodeQL Analysis
