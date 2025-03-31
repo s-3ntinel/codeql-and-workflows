@@ -17,7 +17,7 @@ jobs:
 
       - name: Install mcs
         run: |
-          sudo apt udpate
+          sudo apt update
           sudo apt install mono-devel mono-utils
 
       - name: Initialize CodeQL
