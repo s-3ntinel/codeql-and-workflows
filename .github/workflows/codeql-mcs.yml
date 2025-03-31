@@ -26,7 +26,7 @@ jobs:
           languages: ${{ matrix.language }}
 
       - name: Send java files to javac
-        run: find . -name "*.java" | sed 's| |\\ |g' | xargs mcs || true
+        run: find . -name "*.cs" | sed 's| |\\ |g' | xargs mcs || true
         continue-on-error: true
 
       - name: Perform CodeQL Analysis
