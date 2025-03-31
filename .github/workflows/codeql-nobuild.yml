@@ -1,33 +1,26 @@
-name: codeql-mcs
+name: codeql nobuild
 
 on: push
 
 jobs:
   codeql:
-    name: codeql mcs
+    name: codeql nobuild
     strategy:
       matrix:
         include:
-          - language: csharp
+          - language: java
+            build-mode: none
 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install mcs
-        run: |
-          sudo apt update
-          sudo apt install mono-devel mono-utils
-
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
         with:
           languages: ${{ matrix.language }}
-
-      - name: Send java files to javac
-        run: find . -name "*.cs" | sed 's| |\\ |g' | xargs mcs || true
-        continue-on-error: true
+          build-mode: ${{ matrix.build-mode }}
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
