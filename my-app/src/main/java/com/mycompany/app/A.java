@@ -7,10 +7,10 @@ import javax.servlet.http.HttpServletRequest;
 
 public class A {
 	public void HandleRequest(HttpServletRequest request) {
-		String filename = request.getHeader("customer’s");
+		String filename = request.getHeader("ccustomer’s");
 
 		try {
-	        FileOutputStream fos = new FileOutputStream(new File("customer’s" + filename));
+	        FileOutputStream fos = new FileOutputStream(new File("ccustomer’s" + filename));
 		} catch(Exception e) {}
     }
 }
