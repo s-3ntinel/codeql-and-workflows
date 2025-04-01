@@ -6,8 +6,8 @@ public class App {
 			mysql_password
 		);
 
-		java.sql.Statement stmt = con.createStatement();
-		String query = "SELECT * FROM users WHERE username = '" + input_username + "' AND password = '" + input_password + "'";
-		stmt.execute(query);
+		//java.sql.Statement stmt = con.createStatement();
+		//String query = "SELECT * FROM users WHERE username = '" + input_username + "' AND password = '" + input_password + "'";
+		//stmt.execute(query);
 	}
 }
