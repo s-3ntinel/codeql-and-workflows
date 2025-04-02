@@ -3,9 +3,9 @@ package com.mycompany.app;
 import java.io.FileOutputStream;
 import java.io.File;
 import java.util.Scanner;
-import jakarta.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletRequest;
 
-public class A {
+public class App {
 	public static void main(String args[]) {}
 
 	public void HandleRequest(HttpServletRequest request) {
