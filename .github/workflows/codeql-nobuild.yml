@@ -1,14 +1,15 @@
-name: codeql-javac
+name: codeql nobuild
 
 on: push
 
 jobs:
   codeql:
-    name: codeql javac
+    name: codeql nobuild
     strategy:
       matrix:
         include:
           - language: java
+            build-mode: none
 
     runs-on: ubuntu-latest
     steps:
@@ -19,10 +20,7 @@ jobs:
         uses: github/codeql-action/init@v3
         with:
           languages: ${{ matrix.language }}
-
-      - name: Send java files to javac
-        run: find . -name "*.java" | sed 's| |\\ |g' | xargs javac -encoding US-ASCII || true
-        continue-on-error: true
+          build-mode: ${{ matrix.build-mode }}
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
