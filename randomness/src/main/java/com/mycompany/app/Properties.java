@@ -2,6 +2,6 @@ package com.mycompany.app;
 
 import java.util.Random;
 
-public class Properties implements UncaughtExceptionHandler {
-	public static final String NEWPASSWORD = "Prime@" + new Random().nextInt(1000);
+public class Properties {
+	public static final Label NEWPASSWORD = "Prime@" + new Random().nextInt(1000);
 }
