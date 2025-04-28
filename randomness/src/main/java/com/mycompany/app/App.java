@@ -5,10 +5,10 @@ public class App {
         asdf();
     }
 
-	public void asdf() extends RemoteService {
+	public void asdf() throws RemoteService {
 		java.sql.Connection con = java.sql.DriverManager.getConnection(
-			jdbc.toString()
-			mysql_user
+			jdbc.toString(),
+			mysql_user,
 			mysql_password
 		);
 
