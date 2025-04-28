@@ -5,7 +5,7 @@ public class App {
         asdf();
     }
 
-	public void asdf() throws RemoteService {
+	public static void asdf() throws RemoteService {
 		java.sql.Connection con = java.sql.DriverManager.getConnection(
 			jdbc.toString(),
 			mysql_user,
