@@ -8,9 +8,6 @@ public class App {
 			mysql_password
 		);
 
-        String input_username = "username";
-        String input_password = "password";
-
 		java.sql.Statement stmt = con.createStatement();
         String query = "SELECT * FROM users WHERE username = '" + input_username + "' AND password = '" + input_password + "'";
 		stmt.execute(query);
