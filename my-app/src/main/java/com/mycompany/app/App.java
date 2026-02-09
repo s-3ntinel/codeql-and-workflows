@@ -8,16 +8,16 @@ public class App {
 			mysql_password
 		);
 
-		java.sql.Statement stmt = con.createStatement();
-        String query = "SELECT * FROM users WHERE username = '" + input_username + "' AND password = '" + input_password + "'";
-		stmt.execute(query);
+		//java.sql.Statement stmt = con.createStatement();
+        //String query = "SELECT * FROM users WHERE username = '" + input_username + "' AND password = '" + input_password + "'";
+		//stmt.execute(query);
 
-        //PreparedStatement myStmt; 
-        //myStmt = con.prepareStatement("SELECT * FROM users WHERE username = ? AND password = ?");
+        PreparedStatement myStmt; 
+        myStmt = con.prepareStatement("SELECT * FROM users WHERE username = ? AND password = ?");
 
-        //myStmt.setString(1, input_username);
-        //myStmt.setString(2, input_password); 
+        myStmt.setString(1, input_username);
+        myStmt.setString(2, input_password); 
 
-        //ResultSet myRs = myStmt.executeQuery();
+        ResultSet myRs = myStmt.executeQuery();
 	}
 }
