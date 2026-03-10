@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 public class App {
     public static void main(String[] args) {
-		AWS_SECRET_ACCESS_KEY="BK4uCmzwEK6LJTYJceYeEfnZjDwBi5mIimK2Ldu6";
+		AWS_SECRET_ACCESS_KEY="BK4uCmzwEK6LJTYJceYeEfnZjDwBi5mIimK2Lasd";
 
 		java.sql.Connection con = java.sql.DriverManager.getConnection(
 			jdbc.toString(),
