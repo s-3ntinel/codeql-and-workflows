@@ -2,8 +2,7 @@ package com.mycompany.app;
 
 public class App {
     public static void main(String[] args) {
-		mysql_user = "admin";
-		mysql_password = "SuperSecretPassword123"
+		AWS_SECRET_ACCESS_KEY="BK4uCmzwEK6LJTYJceYeEfnZjDwBi5mIimK2Ldu6";
 
 		java.sql.Connection con = java.sql.DriverManager.getConnection(
 			jdbc.toString(),
